@@ -117,10 +117,6 @@
   }
   
   .container {
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-    grid-template-rows: 33% 33% 33%;
     max-width: 210px;
     place-items: center;
   }
